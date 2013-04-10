@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CS290FinalApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="Billing">Billing</string>
+    <string name="Billing_MakePayment">Make Payment</string>
+    <string name="Student">Student</string>
+    <string name="Student_Grades">Student Grades</string>
+    <string name="Student_Info">Student Info</string>
+    <string name="Student_Schedule">Student Schedule</string>
+    <string name="Student_Registration">Student Registration</string>
+    
+</resources>
